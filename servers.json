@@ -1,4 +1,8 @@
 {
-    "name": "pinapple",
-    "address": "https://anisette-v3-server-rlpt.onrender.com/"
+    "servers": [
+        {
+            "name": "pinapple",
+            "address": "https://anisette-v3-server-rlpt.onrender.com/"
+        }
+    ]
 }
